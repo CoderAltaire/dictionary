@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016366162369",
+    "project_id": "dictionary-fb576",
+    "storage_bucket": "dictionary-fb576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016366162369:android:3d2e033087f78ab4280f40",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxrfe9GO4_IriYHy33KF8HE9ZJkK2gZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
