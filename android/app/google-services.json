@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1016366162369",
-    "project_id": "dictionary-fb576",
-    "storage_bucket": "dictionary-fb576.appspot.com"
+    "project_number": "53563810638",
+    "project_id": "fir-auth-86e00",
+    "storage_bucket": "fir-auth-86e00.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1016366162369:android:3d2e033087f78ab4280f40",
+        "mobilesdk_app_id": "1:53563810638:android:7cad2f603517d9c30d341f",
         "android_client_info": {
-          "package_name": "com.example.dictionary"
+          "package_name": "com.dic.randomic"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCtxrfe9GO4_IriYHy33KF8HE9ZJkK2gZQ"
+          "current_key": "AIzaSyAmbc_ojG80nfO1AswCVxbZVIU90O_tsi8"
         }
       ],
       "services": {

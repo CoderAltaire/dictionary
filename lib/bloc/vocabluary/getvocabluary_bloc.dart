@@ -21,7 +21,6 @@ class GetvocabluaryBloc extends Bloc<GetvocabluaryEvent, GetvocabluaryState> {
       List<VocabluaryModel> vocabluary = [];
       QuerySnapshot<Map<String, dynamic>> data =
           await FirebaseFirestore.instance.collection('users').get();
-          
       int newcounter = 0;
       int oldCounter = 20;
       List<List<VocabluaryModel>> baseUnits = [];

@@ -1,4 +1,4 @@
-package com.example.dictionary
+package com.dic.randomic
 
 import io.flutter.embedding.android.FlutterActivity
 
